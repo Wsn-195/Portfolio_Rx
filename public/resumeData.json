@@ -4,18 +4,17 @@
     "occupation": "ReactJS  && Java Developer",
     "description": "Full Stack React Developer having strong knowledge of spring boot as backend and ReactJS as FrontEnd ",
     "image": "wsv.jpg",
-    "bio": "My name is Willson, I'm a Full Stack ReactJS Developer. Currently I'm working at Newgen Software technologies. ",
+    "bio": "I'm a Full Stack ReactJS Developer , Now primarily focusing on UI development using Javascript ecosystems. Currently I'm working at Infosys as Asscociate Consultant-ReactJS . ",
     "contactmessage": "Get in touch with me to receive further details, get coonected .",
-    "email": "willsonverma17@gmail.com",
-    "phone": "+443 142 3445 6789",
+    "email": "vermawillson@gmail.com",
+    "phone": "+91-8630977998",
     "address": {
-      "street": "Sector 41",
       "city": "Noida",
       "state": "Delhi NCR",
       "zip": "201303"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
@@ -24,17 +23,17 @@
       },
       {
         "name": "linkedin",
-        "url": "",
+        "url": "https://www.linkedin.com/in/willsonverma7/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/willsonverma/?hl=en",
+        "url": "https://www.instagram.com/willson_verma/?hl=en",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/WillsonV",
+        "url": "https://github.com/Wsn-195",
         "className": "fa fa-github"
       }
     ]
@@ -46,24 +45,43 @@
         "school": "Faculty of Engineering and Technology ,GKV ",
         "degree": "B.tech ( Computer Science Engineering )",
         "graduated": "July 2019",
-        "description": "Graduated with Distinction"
+        "description": "CGPA: 8.1 | favourite CS subjects -Computer Networks,DBMS,Operating System,Computer architecture"
       }
     ],
     "work": [
       {
-        "company": "Newgen Software",
+        "company": "Infosys",
+        "title": "Associate Consultant",
+        "years": "Dec 2021 - Present",
+        "description": "Working as ReactJS Developer"
+      }
+      ,
+      {
+        "company": "Newgen Software Technologies",
+        "title": "Senior Software Engineer",
+        "years": "Sep 2021 - Dec 2021",
+        "description": "Worked as Full stack developer"
+      },
+      {
+        "company": "Newgen Software Technologies",
         "title": "Software Engineer",
-        "years": "Jan 2019 - Present",
-        "description": "Working as Full stack developer"
+        "years": "July 2019 - Aug 2021",
+        "description": "Worked as Full stack developer"
+      },
+      {
+        "company": "Newgen Software Technologies",
+        "title": "Software Engineer-Intern",
+        "years": "Jan 2019 - July 2019",
+        "description": "Worked as Full stack developer , majorly hanled creation of UI compnents"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "ReactJs ",
         "level": "70%"
       },
       {
-        "name": "JavaScript, ES6",
+        "name": "JavaScript, ES6,Typescript",
         "level": "80%"
       },
       {
@@ -71,7 +89,7 @@
         "level": "80%"
       },
       {
-        "name": "CSS",
+        "name": "CSS3",
         "level": "95%"
       },
       {
@@ -79,7 +97,7 @@
         "level": "60%"
       },
       {
-        "name": "Git",
+        "name": "Git,SVN,Bitbucket",
         "level": "60%"
       },
       {
@@ -90,42 +108,26 @@
   },
   "portfolio": {
     "projects": [
+    {
+      "title": "SkyUI",
+      "category": "Component Library of Prebuilt compnents with HTML,CSS",
+      "image": "SkyUI.png",
+      "url": "  https://skyui.netlify.app/"
+    },
+    {
+      "title": "Interviewally",
+      "category": "Webapp for interviews courses of software companies(ReactJS,Firebase, ExpressJS,NodeJS)",
+      "image": "InterviewAlly .png",
+      "url": "https://interviewally.netlify.app/"
+    },
       {
         "title": "Amazon Clone",
         "category": "Amazon Clone built with Firebase and ReactJS",
         "image": "Amazon_image.png",
         "url": "https://challenge-66d55.web.app/"
-      },
-      {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
-      },
-      {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
       }
+      
+      
     ]
   },
   "testimonials": {

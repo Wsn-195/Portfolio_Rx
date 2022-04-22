@@ -1,0 +1,82 @@
+.container
+{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+
+}
+
+.container1
+{
+margin-top:10px
+}
+
+.whiteText
+{
+    color: white;
+}
+
+.ProfileImageConainer
+{
+    width: 50%;
+    height:50%
+}
+.ProfilePageImage
+{
+   padding: 20px;
+    
+}
+
+
+.title-light {
+    font-size: 30px;
+    font-weight: 100;
+    font-family: Oswald;
+    letter-spacing: 1px;
+}
+
+
+.text-brand {
+    color: #4ac3bf;
+    font-family: Raleway,Helvetica,Arial,sans-serif;
+    font-weight: 300;
+    font-variant: all-petite-caps;
+}
+
+.title-lgx {
+    font-size: 50px;
+    font-weight: 700;
+    font-family: Oswald;
+    color:#A8A8A8;
+}
+.text-left, .total-numbers {
+    text-align: left;
+    font-family: Raleway,Helvetica,Arial,sans-serif;
+    font-weight: 300;
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 991px)
+{
+.title-lgx {
+    font-size: 50px;
+}
+
+
+.text-brand  {
+    font-size: 50px;
+}
+
+}
+
+.desc-items
+{
+    list-style:circle  ;
+}
+
+
+
+
+
+
+
